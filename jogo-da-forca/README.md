@@ -41,8 +41,8 @@ Baleia
 Gustavo
 ```
 
-Deste jeito, toda vez que o programa rodas, além de carregas o dicionário com as palavras e dicas pré-definidas, ele irá 
-rodar a função criada `lerNovasPalavras()`, que irá abrir o arquivo das palavras ler o índicie das dicas, e adicionando as
+Deste jeito, toda vez que o programa rodar, além de carregar o dicionário com as palavras e dicas pré-definidas, ele irá 
+rodar a função criada `lerNovasPalavras()`, que irá abrir o arquivo das palavras, ler o índicie das dicas, e adicionando as
 novas palavras de acordo.
 
 Ou seja, toda vez que o programa for executado, irá contar com uma gama de palavras novas, assim como uma dica, que irá
