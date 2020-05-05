@@ -4,12 +4,14 @@
 
 _Se o jogador chutar 6 letras erradas, ele perde. Ao final, o computador oferecerá a possibilidade do usuário inserir uma nova palavra no banco de dados._
 
-Com o jogo feito, a ideia é aprender em linguagem C:
+## Com o jogo feito, a ideia é aprender em linguagem C:
 
 - Criar, varrer e manipular arrays e dicionários
 - Entender e criar funções que recebem parâmetros e devolvem valores.
 - Ler e escrever arquivos com formatos específicos.
 - Aprender mais boas práticas de código, como a criação e extração de funções para evitar repetição de código.
+
+## Mecanismo de adicionar novas palavras e novo mecanismo de dicas
 
 O programa já veio preparado com um banco de dados enorme de palavras para sortear. Uma mudança interessante dessa versão 'Python'
 para a versão do jogo feita em 'c', é que aqui foi implementado um mecanismo de dicas, em que foi feito um dicionário, e em 'dicas'
@@ -35,9 +37,13 @@ Exemplo:
 Morango
 1
 Baleia
-2 Gustavo
+2 
+Gustavo
 ```
 
 Deste jeito, toda vez que o programa rodas, além de carregas o dicionário com as palavras e dicas pré-definidas, ele irá 
 rodar a função criada `lerNovasPalavras()`, que irá abrir o arquivo das palavras ler o índicie das dicas, e adicionando as
 novas palavras de acordo.
+
+Ou seja, toda vez que o programa for executado, irá contar com uma gama de palavras novas, assim como uma dica, que irá
+facilitar a vida do jogador, e dando uma maior dinâmica para o jogo.
