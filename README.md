@@ -1,4 +1,4 @@
-# Jogos com 'Python'
+# Jogos com 'Python'              ![PYTHON](https://imgur.com/a/dHP4BaH)
 
 Projeto com intuito total em aprendizagem. Apenas as ideias dos jogos e algumas inspirações em intercafe foram baseadas na plataforma de cursos online [Alura](https://alura.com.br), a montagem, execução, e conteúdo é de exclusividade pessoal.
 
