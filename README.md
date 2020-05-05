@@ -1,4 +1,4 @@
-# Jogos com 'Python'              [![PYTHON](https://user-images.githubusercontent.com/55323701/81100905-ae3a5400-8ee3-11ea-992a-d086de33e845.jpg)](https://www.python.org)
+# Jogos com 'Python'                                                                                                              [![PYTHON](https://user-images.githubusercontent.com/55323701/81100905-ae3a5400-8ee3-11ea-992a-d086de33e845.jpg)](https://www.python.org)
 
 Projeto com intuito total em aprendizagem. Apenas as ideias dos jogos e algumas inspirações em intercafe foram baseadas na plataforma de cursos online [Alura](https://alura.com.br), a montagem, execução, e conteúdo é de exclusividade pessoal.
 
