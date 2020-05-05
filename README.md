@@ -60,3 +60,7 @@ A escolha de jogos simples, e bastante conhecidos por todos, é devido a grandes
   - :point_right: Crie um commit com as mudanças e faça um Pull Request (PR)
 
 [Artigo](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/) da da2k sobre como fazer Pull Rrequests.
+
+## Créditos
+
+Copyright (C) 2020 by Gustavo Mendel
