@@ -1,4 +1,4 @@
-# Jogos com 'Python'              ![PYTHON](https://ibb.co/fpHVr29)
+# Jogos com 'Python'              [![PYTHON](file:///home/gustavo/C%C3%B3digos/curso-python/logo-python/5848152fcef1014c0b5e4967.png)](https://www.python.org)
 
 Projeto com intuito total em aprendizagem. Apenas as ideias dos jogos e algumas inspirações em intercafe foram baseadas na plataforma de cursos online [Alura](https://alura.com.br), a montagem, execução, e conteúdo é de exclusividade pessoal.
 
