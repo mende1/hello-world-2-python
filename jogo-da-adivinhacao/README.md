@@ -6,10 +6,9 @@ Em que o modo fácil você tem 20 chances de acertar o número (lembrando que o 
 
 Habilidades treinadas:
 
-- Variáveis e constantes
+- Variáveis e como declara-las
 - Entrada e saída de dados
-- Miniartes
 - Como gerar valores *semi*-aleatórios
-- Operações
-- Estruturas de selecão (if-else-elseif-switch)
+- Operações matemáticas e operadores lógicos
+- Estruturas de selecão (if-else-elif)
 - Estruturas de repetição (for-while)
