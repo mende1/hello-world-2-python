@@ -21,9 +21,11 @@ A escolha de jogos simples, e bastante conhecidos por todos, é devido a grandes
 * adicionando, comitando arquivos
 * o que é uma branch?
 * push request, subindo arquivos diretamente no repositório
+
 **2. Linguagem de marcação MarkDown:**
 * como fazer um bom readme para repositórios do github
 * tags de marcação básica
+
 **3. Linguagem de programação 'Python':**
 - Variáveis e como defini-las
 - Entrada e saída de dados
