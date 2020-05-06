@@ -15,16 +15,16 @@ A escolha de jogos simples, e bastante conhecidos por todos, é devido a grandes
 
 ## Habilidades treinadas em geral com este repositório:
 
-1. Controlador de versionamento Git/GitHub:
+**1. Controlador de versionamento Git/GitHub:**
 * como clonar projetos
 * comandos do git no terminal bash
 * adicionando, comitando arquivos
 * o que é uma branch?
 * push request, subindo arquivos diretamente no repositório
-2. Linguagem de marcação MarkDown:
+**2. Linguagem de marcação MarkDown:**
 * como fazer um bom readme para repositórios do github
 * tags de marcação básica
-3. Linguagem de programação 'Python':
+**3. Linguagem de programação 'Python':**
 - Variáveis e como defini-las
 - Entrada e saída de dados
 - Como gerar valores *semi*-aleatórios
