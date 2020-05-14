@@ -9,9 +9,9 @@ A escolha de jogos simples, e bastante conhecidos por todos, é devido a grandes
 
 ## Jogos:
 
-:open_file_folder: [Jogo de adivinhação](https://github.com/gustavo-mendel/jogos-com-python/tree/master/jogo-da-adivinhacao)
+:space_invader: [Jogo de adivinhação](https://github.com/gustavo-mendel/jogos-com-python/tree/master/jogo-da-adivinhacao)
 
-:open_file_folder: [Jogo da forca](https://github.com/gustavo-mendel/jogos-com-python/tree/master/jogo-da-forca)
+:space_invader: [Jogo da forca](https://github.com/gustavo-mendel/jogos-com-python/tree/master/jogo-da-forca)
 
 #### Meus exercícios em Python:
 
