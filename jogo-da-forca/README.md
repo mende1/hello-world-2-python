@@ -4,7 +4,7 @@
 
 _Se o jogador chutar 6 letras erradas, ele perde. Ao final, o computador oferecerá a possibilidade do usuário inserir uma nova palavra no banco de dados._
 
-## Com o jogo feito, a ideia é aprender em linguagem C:
+## Com o jogo feito, a ideia é aprender em linguagem Python:
 
 - Criar, varrer e manipular arrays e dicionários
 - Entender e criar funções que recebem parâmetros e devolvem valores.
