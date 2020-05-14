@@ -5,13 +5,17 @@ Projeto com intuito total em aprendizagem. Apenas as ideias dos jogos e algumas 
 
 A escolha de jogos simples, e bastante conhecidos por todos, é devido a grandes habilidades que fornecem a quem monta e executa esses jogos. Habilidades essas relacionadas com assuntos introdutórios de alguma linguagem de programação.
 
-###### Utilizado a versão do Pyhton3.
+##### Utilizado a versão do Pyhton3.
 
 ## Jogos:
 
 :open_file_folder: [Jogo de adivinhação](https://github.com/gustavo-mendel/jogos-com-python/tree/master/jogo-da-adivinhacao)
 
 :open_file_folder: [Jogo da forca](https://github.com/gustavo-mendel/jogos-com-python/tree/master/jogo-da-forca)
+
+#### Meus exercícios em Python:
+
+:file_folder: [Lógica de programação](https://github.com/gustavo-mendel/programacao-python)
 
 ## Habilidades treinadas em geral com este repositório:
 
