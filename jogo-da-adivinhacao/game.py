@@ -9,7 +9,7 @@ def get_random_number():
     return randint(1, 100)
 
 def get_user_number():
-    user_number = int(input("I thought of a number between 1 and 100, try to guess it: "))
+    user_number = int(input("I have chosen a number between 1 and 100, try to guess it: "))
     return user_number
 
 def validate_user_number(user_number):
@@ -41,13 +41,13 @@ def msg_difficulty(difficulty):
     print("")
     if difficulty == 1: 
         print("You selected the difficulty: Easy")
-        print("So, you have 20 chances to get the number right!")
+        print("So, you have 20 chances to get the right number!")
     elif difficulty == 2:
         print("You selected the difficultye: Medium")
-        print("So, you have 12 chances to get the number right!")
+        print("So, you have 12 chances to get the right number!")
     else: 
         print("You selected the difficulty: Hard")
-        print("So, you have 6 chances to get the number right!")
+        print("So, you have 6 chances to get the right number!")
     print()
 
 def win():
@@ -79,7 +79,7 @@ def msg_win():
 
 def msg_lose():
     print("You got it the maximum attempts.")
-    print("So, you LOSE!! ... Try Again ...\n")
+    print("So, you LOSE!! ... Try it Again ...\n")
 
 presentation()
 
