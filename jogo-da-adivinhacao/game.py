@@ -69,9 +69,9 @@ def msg_win():
     print(f'The random number was {random_number}.\n')
     if user_attempts == 1:
         print(f'You got it right on {user_attempts}st attempt')
-    if user_attempts == 2:
+    elif user_attempts == 2:
         print(f'You got it right on {user_attempts}nd attempt')
-    if user_attempts == 3:
+    elif user_attempts == 3:
         print(f'You got it right on {user_attempts}rd attempt')
     else:
         print(f'You got it right on {user_attempts}th attempt')
