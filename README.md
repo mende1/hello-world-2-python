@@ -13,6 +13,8 @@ A escolha de jogos simples, e bastante conhecidos por todos, é devido a grandes
 
 :space_invader: [Jogo da forca](https://github.com/gustavo-mendel/jogos-com-python/tree/master/jogo-da-forca)
 
+:space_invader: [Cifra de Cézar](https://github.com/gustavo-mendel/jogos-com-python/tree/master/cifra-de-cezar) 
+
 #### Meus exercícios em Python:
 
 :file_folder: [Lógica de programação](https://github.com/gustavo-mendel/programacao-python)
