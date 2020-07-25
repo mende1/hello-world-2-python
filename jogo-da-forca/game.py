@@ -1,7 +1,6 @@
 import interface
 import palavras
 import funcoes
-# askldjksla
 
 def acertou():
     return tamanho == numeroAcertos
