@@ -9,15 +9,15 @@ A escolha de jogos simples, e bastante conhecidos por todos, é devido a grandes
 
 ## Jogos:
 
-:space_invader: [Jogo de adivinhação](https://github.com/gustavo-mendel/jogos-com-python/tree/master/jogo-da-adivinhacao)
+:space_invader: [Jogo de adivinhação](https://github.com/mende1/hello-world-2-python/tree/master/jogo-da-adivinhacao)
 
-:space_invader: [Jogo da forca](https://github.com/gustavo-mendel/jogos-com-python/tree/master/jogo-da-forca)
+:space_invader: [Jogo da forca](https://github.com/mende1/hello-world-2-python/tree/master/jogo-da-forca)
 
-:space_invader: [Cifra de Cézar](https://github.com/gustavo-mendel/jogos-com-python/tree/master/cifra-de-cezar) 
+:space_invader: [Cifra de Cézar](https://github.com/mende1/hello-world-2-python/tree/master/cifra-de-cezar) 
 
 #### Meus exercícios em Python:
 
-:file_folder: [Lógica de programação](https://github.com/gustavo-mendel/programacao-python)
+:file_folder: [Lógica de programação](https://github.com/mende1/hello-world-python)
 
 ## Habilidades treinadas em geral com este repositório:
 
